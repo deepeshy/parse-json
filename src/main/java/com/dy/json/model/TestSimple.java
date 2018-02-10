@@ -1,4 +1,4 @@
-package com.dy.json;
+package com.dy.json.model;
 
 public class TestSimple {
     private String key1;

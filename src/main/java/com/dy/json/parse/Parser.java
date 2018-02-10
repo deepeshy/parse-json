@@ -1,6 +1,6 @@
 package com.dy.json.parse;
 
-import com.dy.json.TestSimple;
+import com.dy.json.model.TestSimple;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
