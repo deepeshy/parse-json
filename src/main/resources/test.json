@@ -1,0 +1,21 @@
+{
+  "question": "Where do you go from here?",
+  "paths": [
+    {
+      "pathid": 1,
+      "question": "Now which path do you choose?",
+      "answer": "Your road ends here"
+    },
+    {
+      "pathid": 2,
+      "question": "Now which highway do you choose?",
+      "paths": [
+        {
+          "pathid": 21,
+          "question": "Now which expressway do you choose?",
+          "answer": "Your road ends here"
+        }
+      ]
+    }
+  ]
+}
